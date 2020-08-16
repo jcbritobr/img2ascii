@@ -1,7 +1,7 @@
 # img2ascii
  Simple term ascii image encoder fully tested.
 
- * **Test**
+ * **Test** \
  update golden files
  ```sh
  $ go go test ./... -update
