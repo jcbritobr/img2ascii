@@ -31,12 +31,12 @@ Usage of ./img2ascii:
 $ ./img2ascii -f encoder/testdata/tux.jpg -s 60
 ```
 
-<img src="results/enctux.png">
+<img src="results/enctux.PNG">
 
 ```sh
 $ ./img2ascii -f encoder/testdata/julio.jpg -s 60
 ```
 
-<img src="results/encjulio.png">
+<img src="results/encjulio.PNG">
 
 
