@@ -31,7 +31,7 @@ Usage of ./img2ascii:
 $ ./img2ascii -f encoder/testdata/tux.jpg -s 60
 ```
 
-<img src="results/enctux.PNG">
+<img src="results/enctux.PNG" width="60%">
 
 ```sh
 $ ./img2ascii -f encoder/testdata/julio.jpg -s 60
